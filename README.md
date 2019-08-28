@@ -16,3 +16,4 @@ om apache 2 inte startar pga port80: stäng av branchcache i device manager!
 Kör
 	sudo mysql -u root
 
+ grant all privileges on *.* to 'account'@'localhost' indentified by 'password';
