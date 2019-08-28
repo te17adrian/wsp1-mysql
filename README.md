@@ -1,6 +1,8 @@
 # wsp1-mysql
 
-## Starta servern öppna ubuntu kör
+## Starta servern
+öppna ubuntu och kör
+
   sudo apt service mysql restart
   sudo apt service apache2 restart
 
