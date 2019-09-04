@@ -17,3 +17,5 @@ Kör
 	sudo mysql -u root
 
  grant all privileges on *.* to 'account'@'localhost' indentified by 'password';
+ 
+ pass: a
