@@ -19,3 +19,5 @@ Kör
  grant all privileges on *.* to 'account'@'localhost' indentified by 'password';
  
  pass: a
+
+create database sqlintro
