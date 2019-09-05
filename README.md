@@ -18,6 +18,8 @@ Kör
 
  grant all privileges on *.* to 'account'@'localhost' indentified by 'password';
  
+ 	mysql -u namn
+ 
  pass: a
 
 create database sqlintro
