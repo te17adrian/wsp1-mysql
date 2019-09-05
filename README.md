@@ -18,7 +18,7 @@ Kör
 
  grant all privileges on *.* to 'account'@'localhost' indentified by 'password';
  
- 	mysql -u namn
+ 	mysql -u -p namn
  
  pass: a
 
